@@ -1,0 +1,48 @@
+{
+	"templates": [
+		{ 
+			"name": "ANESTESIA_template.pdf",
+			"label": "Anestesia"
+		},
+		{ 
+			"name": "CONSENSO ABLAZIONE TARTARO_template.pdf",
+			"label": "Ablazione Tartaro"
+		},
+		{ 
+			"name": "CONSENSO CHIRURGIA IMPLANTARE OSTEOINTEGRATA_template.pdf",
+			"label": "Chirurgia Implantare Osteointegrata"
+		},
+		{ 
+			"name": "CONSENSO CHIRURGIA PARODONTALE RIGENERATIVA_template.pdf",
+			"label": "Chirurgia Parodontale Rigenerativa"
+		},
+		{ 
+			"name": "CONSENSO INFORMATO ALLA TERAPIA_template.pdf",
+			"label": "Terapia"
+		},
+		{ 
+			"name": "CONSENSO INFORMATO CHIRURGIA ORALE_template.pdf",
+			"label": "Chiururgia Orale"
+		},
+		{ 
+			"name": "CONSENSO INFORMATO CONSERVATIVA-ENDODONZIA_template.pdf",
+			"label": "Conservativa - Endodonzia"
+		},
+		{ 
+			"name": "CONSENSO INFORMATO ORTODONTICO_template.pdf",
+			"label": "Ortodonzia"
+		},
+		{ 
+			"name": "CONSENSO INFORMATO PROTESICA FISSA_template.pdf",
+			"label": "Protesica Fissa"
+		},
+		{ 
+			"name": "CONSENSO INFORMATO PROTESICA MOBILE_template.pdf",
+			"label": "Protesica Mobile"
+		},
+		{ 
+			"name": "CONSENSO RADIODIAGNOSTICA_template.pdf",
+			"label": "Radiognostica"
+		}
+	]
+}

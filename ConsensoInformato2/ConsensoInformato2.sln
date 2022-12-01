@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsensoInformato2", "ConsensoInformato2\ConsensoInformato2.csproj", "{DCBD2915-1C7F-4182-8BEA-2ED77D2CFD0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsensoInformatoTest", "ConsensoInformatoTest\ConsensoInformatoTest.csproj", "{4C74D02B-65B2-4E44-8504-26F786347B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBD2915-1C7F-4182-8BEA-2ED77D2CFD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBD2915-1C7F-4182-8BEA-2ED77D2CFD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBD2915-1C7F-4182-8BEA-2ED77D2CFD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBD2915-1C7F-4182-8BEA-2ED77D2CFD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C74D02B-65B2-4E44-8504-26F786347B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C74D02B-65B2-4E44-8504-26F786347B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C74D02B-65B2-4E44-8504-26F786347B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C74D02B-65B2-4E44-8504-26F786347B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5734197B-4519-4F4E-B7FE-213FECBDC21F}
+	EndGlobalSection
+EndGlobal

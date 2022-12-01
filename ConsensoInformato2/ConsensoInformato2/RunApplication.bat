@@ -1,0 +1,2 @@
+﻿REM - non so perché, i batch con il comando in prima riga non vanno
+ConsensoInformato2 /nome "Luca" /cognome "Menegotto" /codicefiscale "MNGLCU64R320L157P" /indirizzo "via Salvioli 25 - Marostica" /luogonascita Thiene /datanascita "20 ottobre 1964" /dottore "dott. Giovanni Toniolo"

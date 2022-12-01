@@ -1,0 +1,2 @@
+/nome "%%PATFNAME#" /cognome "%%PATLNAME#" /codicefiscale "%%PATCODFISC#" /indirizzo "%%PATADDRESS#" /luogonascita "%%PATBCITY#" /datanascita "%%PATBDAY#"
+
