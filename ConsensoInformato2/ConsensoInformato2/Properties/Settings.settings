@@ -3,16 +3,16 @@
   <Profiles />
   <Settings>
     <Setting Name="TemplatesStore" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Users\utente\Desktop\Toniolo\ConsensoInformato\ModuliConsensoInformato</Value>
+      <Value Profile="(Default)">D:\ConsensoInformatoData\ModuliConsensoInformato</Value>
     </Setting>
     <Setting Name="PdfStore" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Users\utente\Desktop\Toniolo\ConsensoInformato\PdfSource</Value>
+      <Value Profile="(Default)">D:\ConsensoInformatoData\PdfSource</Value>
     </Setting>
     <Setting Name="PdfDestination" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Users\utente\Desktop\Toniolo\ConsensoInformato\OutputPdf</Value>
+      <Value Profile="(Default)">D:\ConsensoInformatoData\OutputPdf</Value>
     </Setting>
     <Setting Name="TemporaryStore" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Users\utente\Desktop\Toniolo\ConsensoInformato\Temp</Value>
+      <Value Profile="(Default)">D:\ConsensoInformatoData\Temp</Value>
     </Setting>
     <Setting Name="TemplateExtension" Type="System.String" Scope="Application">
       <Value Profile="(Default)">pdf</Value>
@@ -21,7 +21,7 @@
       <Value Profile="(Default)">_template</Value>
     </Setting>
     <Setting Name="DoctorListStore" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">C:\Lavori\ConsensoInformato\ModuliConsensoInformato\Dottori.txt</Value>
+      <Value Profile="(Default)">D:\ConsensoInformatoData\Dottori.txt</Value>
     </Setting>
     <Setting Name="CurrentDoctor" Type="System.String" Scope="User">
       <Value Profile="(Default)" />

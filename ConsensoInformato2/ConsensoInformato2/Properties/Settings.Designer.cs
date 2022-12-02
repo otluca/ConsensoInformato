@@ -12,7 +12,7 @@ namespace ConsensoInformato2.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.10.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "17.4.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,7 @@ namespace ConsensoInformato2.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\utente\\Desktop\\Toniolo\\ConsensoInformato\\ModuliConsensoInformato")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\ConsensoInformatoData\\ModuliConsensoInformato")]
         public string TemplatesStore {
             get {
                 return ((string)(this["TemplatesStore"]));
@@ -34,7 +34,7 @@ namespace ConsensoInformato2.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\utente\\Desktop\\Toniolo\\ConsensoInformato\\PdfSource")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\ConsensoInformatoData\\PdfSource")]
         public string PdfStore {
             get {
                 return ((string)(this["PdfStore"]));
@@ -43,7 +43,7 @@ namespace ConsensoInformato2.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\utente\\Desktop\\Toniolo\\ConsensoInformato\\OutputPdf")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\ConsensoInformatoData\\OutputPdf")]
         public string PdfDestination {
             get {
                 return ((string)(this["PdfDestination"]));
@@ -52,7 +52,7 @@ namespace ConsensoInformato2.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\utente\\Desktop\\Toniolo\\ConsensoInformato\\Temp")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\ConsensoInformatoData\\Temp")]
         public string TemporaryStore {
             get {
                 return ((string)(this["TemporaryStore"]));
@@ -79,7 +79,7 @@ namespace ConsensoInformato2.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Lavori\\ConsensoInformato\\ModuliConsensoInformato\\Dottori.txt")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\ConsensoInformatoData\\Dottori.txt")]
         public string DoctorListStore {
             get {
                 return ((string)(this["DoctorListStore"]));
